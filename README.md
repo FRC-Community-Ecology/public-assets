@@ -6,3 +6,4 @@ This repository is meant as a collection of public assets that may be used for w
 
 ## Icon Credits & Licensing
 - `bat.svg`: Adapted from SVGRepo (MIT License - vscode-icons)
+- `camera.svg`: Adapted from SVGRepo (MIT License - Eva Icons)
